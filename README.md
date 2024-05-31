@@ -25,7 +25,9 @@ Dataset Preparation
 Prepare your dataset by organizing the images and masks into separate directories. Ensure the images and masks are properly preprocessed and saved in the following structure:
 
 /content/drive/MyDrive/
+
     ├── images/
+    
     └── masks/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
